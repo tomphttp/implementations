@@ -1,9 +1,9 @@
 # Implementations
 A list of projects and repositories that implement the [TompHTTP specifications](https://github.com/tomphttp/specifications).
 
-## UltraViolet
+## Ultraviolet
 
-Developer: [TitaniumNetwork](https://github.com/titaniumnetwork-dev)
+Developer: [TitaniumNetwork](https://github.com/titaniumnetwork-development)
 
 Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
 
