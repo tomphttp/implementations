@@ -17,7 +17,7 @@ Developer: [TitaniumNetwork](https://github.com/titaniumnetwork-development)
 
 Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
 
-Repository: https://github.com/titaniumnetwork-dev/Ultraviolet
+Repository: https://github.com/titaniumnetwork-development/Ultraviolet
 
 Website: https://ultravioletsw.dev/
 
