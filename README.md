@@ -1,6 +1,16 @@
 # Implementations
 A list of projects and repositories that implement the [TompHTTP specifications](https://github.com/tomphttp/specifications).
 
+## Osana
+
+Developer: [Cohen](https://github.com/cohenerickson)
+
+Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
+
+Repository: https://github.com/NebulaServices/Osana
+
+Website: https://osanaweb.xyz/
+
 ## DIP
 
 Developer: [Ender](https://github.com/EnderKingJ)
