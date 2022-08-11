@@ -3,7 +3,7 @@ A list of projects and repositories that implement the [TompHTTP specifications]
 
 ## Osana
 
-Developer: [Cohen](https://github.com/cohenerickson)
+Developer: [NebulaServices](https://github.com/NebulaServices)
 
 Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
 
