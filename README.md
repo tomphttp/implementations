@@ -7,7 +7,7 @@ Developer: [Nebula](https://github.com/NebulaServices)
 
 Implements: [Bare Server](https://github.com/NebulaServices/bare-server-rust)
 
-Repository: https://github.com/tomphttp/specifications/blob/master/BareServer.md
+Repository: https://github.com/NebulaServices/bare-server-rust
 
 ## DIP
 
