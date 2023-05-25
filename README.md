@@ -1,6 +1,14 @@
 # Implementations
 A list of projects and repositories that implement the [TompHTTP specifications](https://github.com/tomphttp/specifications).
 
+## bare-server-rust
+
+Developer: [Nebula](https://github.com/NebulaServices)
+
+Implements: [Bare Server](https://github.com/NebulaServices/bare-server-rust)
+
+Repository: https://github.com/tomphttp/specifications/blob/master/BareServer.md
+
 ## DIP
 
 Developer: [Ender](https://github.com/EnderKingJ)
