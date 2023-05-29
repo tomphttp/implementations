@@ -9,6 +9,14 @@ Implements: [Bare Server](https://github.com/NebulaServices/bare-server-rust)
 
 Repository: https://github.com/NebulaServices/bare-server-rust
 
+## Aero
+
+Developer: [ProxyHaven](https://github.com/ProxyHaven)
+
+Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
+
+Repository: https://github.com/ProxyHaven/aero
+
 ## DIP
 
 Developer: [Ender](https://github.com/EnderKingJ)
