@@ -17,6 +17,14 @@ Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/
 
 Repository: https://github.com/ProxyHaven/aero
 
+## Dynamic
+
+Developer: [Nebula](https://github.com/NebulaServices)
+
+Implements: [TOMP Model](https://github.com/tomphttp/specifications/blob/master/ProxyModel.md)
+
+Repository: https://github.com/NebulaServices/dynamic
+
 ## DIP
 
 Developer: [Ender](https://github.com/EnderKingJ)
