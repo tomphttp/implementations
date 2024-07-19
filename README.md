@@ -1,6 +1,14 @@
 # Implementations
 A list of projects and repositories that implement the [TompHTTP specifications](https://github.com/tomphttp/specifications).
 
+## bare-server-go
+
+Developer: [genericness](https://github.com/genericness)
+
+Implements: [Bare Server](https://github.com/genericness/bare-server-go)
+
+Repository: https://github.com/genericness/bare-server-go
+
 ## bare-server-rust
 
 Developer: [Nebula](https://github.com/NebulaServices)
