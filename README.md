@@ -5,9 +5,9 @@ A list of projects and repositories that implement the [TompHTTP specifications]
 
 Developer: [genericness](https://github.com/genericness)
 
-Implements: [Bare Server](https://github.com/genericness/bare-server-go)
+Implements: [Bare Server](https://github.com/tomphttp/bare-server-go)
 
-Repository: https://github.com/genericness/bare-server-go
+Repository: https://github.com/tomphttp/bare-server-go
 
 ## bare-server-rust
 
